@@ -18,7 +18,7 @@ cp -r algeria-ecommerce-expert/skills/algeria-ecommerce-expert ~/.claude/skills/
 ```
 
 ### claude.ai / تطبيق Claude
-هبّط ملف `algeria-ecommerce-expert.zip` من صفحة Releases وارفعه من إعدادات المهارات (Skills) في Claude.
+هبّط ملف [`dist/algeria-ecommerce-expert.zip`](dist/algeria-ecommerce-expert.zip) وارفعه من إعدادات المهارات (Skills) في Claude.
 
 ## الملفات
 ```
