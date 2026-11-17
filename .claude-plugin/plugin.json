@@ -1,0 +1,8 @@
+{
+  "name": "algeria-ecommerce-expert",
+  "description": "Expert skill for planning, designing, building and securing online stores for the Algerian market.",
+  "version": "1.0.0",
+  "author": { "name": "kellou-ken", "url": "https://github.com/kellou-ken" },
+  "license": "MIT",
+  "skills": ["./skills/algeria-ecommerce-expert"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "algeria-ecommerce-expert",
+  "owner": { "name": "kellou-ken", "url": "https://github.com/kellou-ken" },
+  "metadata": { "description": "Claude skill: Algerian e-commerce expert", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "algeria-ecommerce-expert",
+      "source": "./",
+      "description": "Software engineer, UI designer, Algerian e-commerce expert, cybersecurity expert and project manager in one skill."
+    }
+  ]
+}
